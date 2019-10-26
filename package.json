@@ -30,7 +30,7 @@
     "@dadi/metadata": "^2.0.0",
     "@dadi/status": "latest",
     "async": "^2.6.1",
-    "aws-sdk": "2.249.1",
+    "aws-sdk": "2.552.0",
     "body-parser": "^1.18.3",
     "busboy": "^0.2.13",
     "chokidar": "^2.0.3",
