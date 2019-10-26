@@ -49,7 +49,7 @@
     "langs": "^2.0.0",
     "length-stream": "^0.1.1",
     "mkdirp": "^0.5.1",
-    "moment": "2.19.3",
+    "moment": "2.24.0",
     "natural": "^0.6.1",
     "object-path": "^0.11.4",
     "parse-comments": "0.4.3",
