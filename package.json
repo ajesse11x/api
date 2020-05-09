@@ -38,7 +38,7 @@
     "colors": "1.1.2",
     "concat-stream": "^1.6.2",
     "console-stamp": "^0.2.0",
-    "convict": "4.3.2",
+    "convict": "6.0.0",
     "debug": "3.1.0",
     "deep-clone": "^3.0.2",
     "deepmerge": "^2.1.0",
