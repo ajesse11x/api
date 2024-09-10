@@ -53,7 +53,7 @@
     "natural": "^0.6.1",
     "object-path": "^0.11.4",
     "parse-comments": "0.4.3",
-    "path-to-regexp": "~1.7.0",
+    "path-to-regexp": "~8.0.0",
     "recovery": "^0.2.6",
     "require-directory": "^2.1.1",
     "semver": "^5.5.0",
